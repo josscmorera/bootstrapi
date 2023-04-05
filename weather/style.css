@@ -1,0 +1,60 @@
+.card {
+    margin: 2rem;
+    width: 25rem;
+    box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.2);
+    background-color: #fdfdfd;
+    font-family: 'Lato', sans-serif;
+}
+.card-title {
+    margin-bottom: 1rem;
+    font-size: 2rem;
+    color: #ff4d4d;
+    text-shadow: 0 0 4px #f8b3b3;
+}
+.input-group {
+    margin-bottom: 1rem;
+}
+.input-group-text {
+    background-color: #f8f9fa;
+    border-color: #ced4da;
+    color: #6c757d;
+    font-weight: 600;
+}
+.form-control {
+    background-color: #f8f9fa;
+    border-color: #ced4da;
+    color: #6c757d;
+    font-weight: 600;
+    box-shadow: none;
+}
+.form-control:focus {
+    background-color: #f8f9fa;
+    border-color: #ced4da;
+    color: #6c757d;
+    box-shadow: none;
+    outline: none;
+}
+.btn-primary {
+    margin-top: 1rem;
+    background-color: #ff4d4d;
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+}
+#cityName {
+    font-weight: bold;
+    color: #ff4d4d;
+    text-shadow: 0 0 4px #f8b3b3;
+}
+#temperature, #wind, #description {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    color: #333333;
+}
+#weather {
+    margin-top: 1rem;
+    font-size: 1.5rem;
+    height: 100px;
+}
+
+  

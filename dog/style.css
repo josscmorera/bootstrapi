@@ -1,0 +1,13 @@
+#code {
+    display: block;
+    width: 100%;
+    font-size: 8px;
+    text-align: left;
+    font-family: monospace;
+    padding: 1rem;
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+    white-space: pre-wrap;
+    word-break: break-all;
+}
